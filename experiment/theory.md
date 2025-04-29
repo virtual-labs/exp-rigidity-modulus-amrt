@@ -26,4 +26,11 @@ $$ n=\frac{2MgR}{\pi r^{4}}\frac{l}{\theta}.......(4) $$
 
 ![rigidity7](https://github.com/user-attachments/assets/38644f58-c3cf-4d29-94b4-327ccbd509ba)
 
-Now suppose we mount a small mirror on the rod at distance l from its fixed end, and look at a centimeter scale in the mirror through an adjacent telescope, both at distance D from the mirror. When the rod deforms and the mirror rotates through a small angle $$ \theta $$, we look at a point on the scale a distance approximately $$ S=2D\theta $$¸ from the original point, which was aligned with the telescope. We can measure D and S and substitute $$ \theta $$¸ =S/2D in our definition of rigidity modulus n, to get 
+Now suppose we mount a small mirror on the rod at distance l from its fixed end, and look at a centimeter scale in the mirror through an adjacent telescope, both at distance D from the mirror. When the rod deforms and the mirror rotates through a small angle $$\theta$$, we look at a point on the scale a distance approximately $$S=2D\theta$$¸ from the original point, which was aligned with the telescope. We can measure D and S and substitute $$\theta$$¸ =S/2D in our definition of rigidity modulus n, to get 
+
+$$n=\frac{4MgR}{\pi r^{4}}\frac{lD}{S}.......(5)$$
+
+### Application
+Engineers consider the value of shear modulus when selecting materials for shafts, which are rods that are subjected to twisting torques.
+
+
