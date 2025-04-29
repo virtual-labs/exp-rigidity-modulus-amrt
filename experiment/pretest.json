@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Within the elastic limit the stress is proportional to strain. This is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pascal's law",
+        "b": "Hook's law",
+        "c": "Newton's law",
+        "d": "Malus's law"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The SI unit of rigidity modulus is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "kgM<sup>2</sup>",
+        "b": "Nm<sup>2</sup>",
+        "c": "N/m<sup>2</sup>",
+        "d": "No unit"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "If the radius of the rigid rod is doubled, then the rigidity modulus,",
+      "answers": {
+        "a": "decreases",
+        "b": "increases",
+        "c": "remains the same",
+        "d": "change erratically"
       },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
