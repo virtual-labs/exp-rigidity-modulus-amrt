@@ -1,6 +1,6 @@
 ## Theory 
 
-Shear modulus, or rigidity modulus n is defined as the ratio of stress F/A to strain $$\Delta x$$/l when a shearing force F is applied to a rigid block of height l and area A. $$\Delta x$$ is the deformation of the block, and
+Shear modulus, or rigidity modulus n is defined as the ratio of stress F/A to strain $$\Delta x/l$$ when a shearing force F is applied to a rigid block of height l and area A. $$\Delta x$$ is the deformation of the block, and
 
 
 ![rigidity1](https://github.com/user-attachments/assets/d6a74661-91fa-4b37-b33d-0dd77e39ff17)
@@ -20,13 +20,13 @@ $$ n=\frac{F/A}{\Delta x/l}=\frac{\frac{2\tau}{r}/\pi r^{2}}{\theta r/l}=\frac{2
 ![rigidity10](https://github.com/user-attachments/assets/42856d07-1113-4150-bf77-b5cbb03087d6)
 
 
-In our apparatus the torque $$ \tau $$ is supplied by hanging a weight of mass M from a string wound round a pulley of radius R, so $$ \tau$$ =MgR and our definition of rigidity modulus n becomes   
+In our apparatus the torque $$\tau$$ is supplied by hanging a weight of mass M from a string wound round a pulley of radius R, so $$\tau = MgR$$ and our definition of rigidity modulus n becomes   
 
 $$ n=\frac{2MgR}{\pi r^{4}}\frac{l}{\theta}.......(4) $$
 
 ![rigidity7](https://github.com/user-attachments/assets/38644f58-c3cf-4d29-94b4-327ccbd509ba)
 
-Now suppose we mount a small mirror on the rod at distance l from its fixed end, and look at a centimeter scale in the mirror through an adjacent telescope, both at distance D from the mirror. When the rod deforms and the mirror rotates through a small angle $$\theta$$, we look at a point on the scale a distance approximately $$S=2D\theta$$¸ from the original point, which was aligned with the telescope. We can measure D and S and substitute $$\theta$$¸ =S/2D in our definition of rigidity modulus n, to get 
+Now suppose we mount a small mirror on the rod at distance l from its fixed end, and look at a centimeter scale in the mirror through an adjacent telescope, both at distance D from the mirror. When the rod deforms and the mirror rotates through a small angle $$\theta$$, we look at a point on the scale a distance approximately $$S=2D\theta$$¸ from the original point, which was aligned with the telescope. We can measure D and S and substitute $$\theta =S/2D$$ in our definition of rigidity modulus n, to get 
 
 $$n=\frac{4MgR}{\pi r^{4}}\frac{lD}{S}.......(5)$$
 
