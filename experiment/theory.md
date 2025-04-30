@@ -9,11 +9,11 @@ Shear modulus, or rigidity modulus n is defined as the ratio of stress F/A to st
   <img src="images/rigidity.jpg" alt="Your image description" width="350">
 </div>
 
-This is similar to what happens when a torque $$\tau $$ is applied to a rigid rod of length l and radius r. Looking at the cross-section of the rod, consider a ring of width dr' at radius r' , which will have area $$2\pi r'dr' $$, with force applied tangentially. The weighted average force over the cross-sectional area A of the rod is then
+This is similar to what happens when a torque $$\tau$$ is applied to a rigid rod of length l and radius r. Looking at the cross-section of the rod, consider a ring of width dr' at radius r' , which will have area $$2\pi r'dr' $$, with force applied tangentially. The weighted average force over the cross-sectional area A of the rod is then
 
 $$\frac{1}{A}\int_{0}^{r}\frac{\tau}{r'}2\pi r'dr'=\frac{1}{\pi r^{2}}2\pi r\tau = \frac{2\tau}{r}........(2) $$
 
-If the torque deforms the rod by twisting it through a small angle $$ \Theta$$, the deformation distance (corresponding to $$\Delta x$$ ) at the outside edge of the rod is approximately  $$2\pi r $$. The definition of the rigidity modulus n becomes 
+If the torque deforms the rod by twisting it through a small angle $$\theta$$, the deformation distance (corresponding to $$\Delta x$$) at the outside edge of the rod is approximately  $$2\pi r $$. The definition of the rigidity modulus n becomes 
 
 $$ n=\frac{F/A}{\Delta x/l}=\frac{\frac{2\tau}{r}/\pi r^{2}}{\theta r/l}=\frac{2\tau l}{\pi r^{4}\theta} .......(3) $$
 
