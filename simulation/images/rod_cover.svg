@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="700px"
+	 height="700px" viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<g id="Layer_3">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#6A957B" points="622.3,210 615.3,210 611.7,207.8 618.3,207.8 				"/>
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="612.0488" y1="217.3306" x2="616.0312" y2="212.1863">
+					<stop  offset="0" style="stop-color:#486250"/>
+					<stop  offset="1" style="stop-color:#334437"/>
+				</linearGradient>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M615.3,210c-0.2,1-0.2,2.6,0.1,4.9
+					c0.2,2.2,0.8,4.2,1.8,6l-8.8-7.5c0.4-0.2,0.9-0.5,1.5-1c0.1-0.1,0.2-0.2,0.3-0.3h2.7c0.4-0.9,0.4-1.7,0-2.5h-1.5v-0.1
+					c0.2-0.5,0.3-1.1,0.4-1.6L615.3,210z"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#354A3E" points="617.1,220.9 617.1,223.3 608.3,215.5 608.3,213.4 				
+					"/>
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="620.7607" y1="220.875" x2="620.7607" y2="210.0249">
+					<stop  offset="0" style="stop-color:#6A957B"/>
+					<stop  offset="0.3216" style="stop-color:#749C84"/>
+					<stop  offset="1" style="stop-color:#476656"/>
+				</linearGradient>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" d="M622.3,210c0,4.7,1.4,8.4,4.1,10.9h-9.3
+					c-1-1.8-1.5-3.8-1.8-6c-0.3-2.2-0.3-3.9-0.1-4.9H622.3z"/>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#3D5445" points="626.4,220.9 626.4,223.5 617.1,223.3 617.1,220.9 				
+					"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill-rule="evenodd" clip-rule="evenodd" fill="none" x1="616.8" y1="220.5" x2="610.2" y2="215.3"/>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M616.8,220.5c0.1,0.1,0.1,0.3,0.2,0.4"/>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M615.1,210c-0.2,4.1,0.4,7.6,1.8,10.5"/>
+				<line fill-rule="evenodd" clip-rule="evenodd" fill="none" x1="617.9" y1="220.9" x2="625.7" y2="220.9"/>
+				<line fill-rule="evenodd" clip-rule="evenodd" fill="none" x1="615.1" y1="210" x2="622.3" y2="210"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

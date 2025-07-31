@@ -1,0 +1,1 @@
+## Rigidity Modulus -Static Torsion

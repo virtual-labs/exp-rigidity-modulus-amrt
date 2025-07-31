@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Within the elastic limit the stress is proportional to strain. This is",
+      "answers": {
+        "a": "Pascal's law",
+        "b": "Hook's law",
+        "c": "Newton's law",
+        "d": "Malus's law"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The SI unit of rigidity modulus is",
+      "answers": {
+        "a": "kgM<sup>2</sup>",
+        "b": "Nm<sup>2</sup>",
+        "c": "N/m<sup>2</sup>",
+        "d": "No unit"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "If the radius of the rigid rod is doubled, then the rigidity modulus,",
+      "answers": {
+        "a": "decreases",
+        "b": "increases",
+        "c": "remains the same",
+        "d": "change erratically"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is correct?",
+      "answers": {
+        "a": "Young's modulus (Y) is defined as the ratio of linear stress to linear strain",
+        "b": "Rigidity modulus (n) is defined as the ratio of shear stress to shear strain",
+        "c": "Bulk modulus (K) is defined as the ratio of volume stress to volume strain",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The change in shape of a regular body is due to",
+      "answers": {
+        "a": "Linear strain",
+        "b": "Metallic strain",
+        "c": "Shearing strain",
+        "d": "Bulk strain"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
